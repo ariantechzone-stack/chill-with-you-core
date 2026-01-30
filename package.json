@@ -1,0 +1,15 @@
+{
+  "name": "chill-with-you-core",
+  "version": "1.0.0",
+  "description": "Core logic for Chill With You – cozy focus, lofi & pomodoro utilities",
+  "main": "index.js",
+  "keywords": [
+    "focus",
+    "lofi",
+    "pomodoro",
+    "productivity",
+    "chill"
+  ],
+  "author": "Rishabh",
+  "license": "MIT"
+}
